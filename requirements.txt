@@ -1,0 +1,12 @@
+streamlit==1.45.1
+torch==2.9.0
+torchvision
+timm==0.9.12
+opencv-python-headless==4.9.0.80
+matplotlib==3.8.4
+pillow==10.3.0
+reportlab==4.1.0
+numpy==1.26.4
+tensorflow-cpu==2.15.0
+retina-face==0.0.14
+tf-keras==2.15.0
