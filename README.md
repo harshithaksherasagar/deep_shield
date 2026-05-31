@@ -8,6 +8,5 @@ app_file: app.py
 pinned: false
 ---
 
-# DeepShield
 
-AI-powered deepfake detection application.
+
